@@ -31,7 +31,7 @@ function setup() {
   addfood.position(700,130);
   addfood.mousePressed(addFood&&scorePLUS);
 
-  milk = new Food(200,50);
+ // milk = new Food(200,50);
   
 
 }
